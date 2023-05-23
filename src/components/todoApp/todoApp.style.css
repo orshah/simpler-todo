@@ -1,0 +1,12 @@
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.todoItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
