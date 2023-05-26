@@ -3,3 +3,9 @@
   padding: 0;
   display: border-box;
 }
+
+.main-sign {
+  text-align: center;
+  font-size: 4rem;
+  color: rgb(0, 0, 0);
+}
